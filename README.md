@@ -15,7 +15,7 @@ About me:
 
 Currently cracking: 
 
-web scrapping with BeautifulSoup, Selenium and Scrapy 😄
+Deeper understanding of deep learning applications😄
 
 
 
