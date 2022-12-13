@@ -15,7 +15,7 @@ About me:
 
 Currently cracking: 
 
-Deeper understanding of deep learning applications😄
+Practicing ML problems 
 
 
 
