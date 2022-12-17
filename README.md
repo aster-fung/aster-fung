@@ -6,9 +6,9 @@ I am a self taught programmer & data scientist based in Hong Kong 🇭🇰
 <br>
 
 About me: 
-* a pythonista🐍 and probably a jupyter notebook addict
+* I listen to Lofi music (a lot)🎵 when coding ⌨️📚
 * I enjoy learning on the go 🔬 biology ➔🧬bioinformatics ➔ 🖥️ data science
-* Mr. Robot is the best TV show! 
+* Love Mr. Robot the TV show
 * Ask me about anything <a href="https://github.com/aster-fung/aster-fung/issues">here</a>
 
 <br>
