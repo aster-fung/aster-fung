@@ -1,7 +1,7 @@
 
 # Hi there! I am Aster😊 ✨
  
-I am a self taught programmer & data scientist based in Hong Kong 🇭🇰
+I am a self taught programmer & machine learning partitioner from Hong Kong 🇭🇰
 
 <br>
 
