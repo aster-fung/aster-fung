@@ -7,7 +7,7 @@ I am a self taught programmer & machine learning partitioner from Hong Kong 🇭
 
 About me: 
 * I listen to Lofi music (a lot)🎵 when coding ⌨️📚
-* I enjoy learning on the go 🔬 biology ➔🧬bioinformatics ➔ 🖥️ data science
+* I enjoy learning 🔬 biology ➔🧬bioinformatics ➔ 🖥️ data science
 * Love Mr. Robot the TV show
 * Ask me about anything <a href="https://github.com/aster-fung/aster-fung/issues">here</a>
 
@@ -15,7 +15,7 @@ About me:
 
 Currently cracking: 
 
-Practicing ML problems 
+deep learning projects
 
 
 
