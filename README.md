@@ -15,7 +15,7 @@ About me:
 
 Currently cracking: 
 
-deep learning projects
+more projects
 
 
 
