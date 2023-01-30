@@ -17,6 +17,8 @@ Currently cracking:
 
 web dev 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aster-fung&layout=compact)](https://github.com/aster-fung/github-readme-stats)
+
 
 <!--  
 You may also find me at: 
