@@ -15,7 +15,7 @@ About me:
 
 Currently cracking: 
 
-web dev 
+web dev, aws cloud practioner certification exam preparation
 
 
 
