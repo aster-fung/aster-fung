@@ -1,7 +1,6 @@
 
 # Hi there! I am Aster😊 ✨
- 
-I am a self taught programmer & machine learning partitioner from Hong Kong 🇭🇰
+
 
 <br>
 
