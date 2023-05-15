@@ -1,5 +1,5 @@
 
-# Hi there! I am Aster😊 ✨
+# Hi there! I am Aster ✨
 
 <br>
 
