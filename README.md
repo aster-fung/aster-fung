@@ -1,3 +1,8 @@
+I am looking for study buddies. Please feel free to leave a message or contact me (id:asterora) on discord. 
+
+My life offered me some lows that made me quit programming a few times. This time I am taking it slow and I wanna make the process enjoyable. This learning might take a lifetime. 
+During daytime I work as a researcher in biopharma industry. Programming and handcrafting are my other passions. 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aster-fung&theme=dark&hide_progress=true)<br>
 
 
